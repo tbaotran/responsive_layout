@@ -348,7 +348,7 @@ p {
 		max-width: 1024px;
 	}
 
-	/*  float main header (Ryan Johnson) to left and display inline with main-nav  */
+	/*  float main header to left and display inline with main-nav  */
 	h2 {
 		display: inline-block;
 		float: left;
